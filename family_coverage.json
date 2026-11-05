@@ -2,8 +2,16 @@
   "family": "Continental SID208",
   "slug": "continental-sid208",
   "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
-  "official_url": "https://www.davincideluxe.fr/continental-sid208-tuning-software",
-  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "official_urls": [
+    "https://www.davincideluxe.fr/continental-sid208-tuning-software",
+    "https://www.davincideluxe.org/continental-sid208-tuning-software",
+    "https://www.davincideluxe.app/continental-sid208-tuning-software",
+    "https://www.davincideluxe.software/continental-sid208-tuning-software",
+    "https://www.davincideluxe.es/continental-sid208-tuning-software",
+    "https://www.davincideluxe.de/continental-sid208-tuning-software",
+    "https://www.davincideluxe.it/continental-sid208-tuning-software",
+    "https://www.aesoftech.eu/continental-sid208-tuning-software"
+  ],
   "matched_variants_count": 11,
   "brands": {
     "FIAT": [
