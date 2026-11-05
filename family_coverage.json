@@ -1,0 +1,37 @@
+{
+  "family": "Continental SID208",
+  "slug": "continental-sid208",
+  "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
+  "official_url": "https://www.davincideluxe.fr/continental-sid208-tuning-software",
+  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "matched_variants_count": 11,
+  "brands": {
+    "FIAT": [
+      "SID208"
+    ],
+    "FORD": [
+      "SID208",
+      "SID208 (SW: 10126020AD)",
+      "SID209-211"
+    ],
+    "LAND ROVER": [
+      "SID208"
+    ],
+    "JAGUAR": [
+      "SID208"
+    ],
+    "MAZDA": [
+      "SID208"
+    ],
+    "PEUGEOT": [
+      "SID208",
+      "SID209-211"
+    ],
+    "CITROËN": [
+      "SID208"
+    ],
+    "DS": [
+      "SID208"
+    ]
+  }
+}
