@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Continental SID208 / SID209 ECU Calibration Software — Ford Transit, Ranger, PSA Jumper/Boxer & Land Rover Defender 2.2/3.2 TDCi (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/continental-sid208-tuning-software"
+repository-code: "https://github.com/DavinciDeluxe/continental-sid208-tuning-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
