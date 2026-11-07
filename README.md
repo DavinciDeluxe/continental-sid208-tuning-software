@@ -1,10 +1,10 @@
-# Continental SID208 ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.44)
+# Continental SID208 ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 [![Live ECU Page](https://img.shields.io/badge/Continental%20SID208-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/continental-sid208-tuning-software)
 [![Portal .org](https://img.shields.io/badge/.ORG-davincideluxe.org-00c8ff?style=for-the-badge)](https://www.davincideluxe.org/continental-sid208-tuning-software)
 [![Portal .app](https://img.shields.io/badge/.APP-davincideluxe.app-ff007f?style=for-the-badge)](https://www.davincideluxe.app/continental-sid208-tuning-software)
 
-**Continental SID208** is Ford Transit, PSA Boxer/Jumper, Land Rover Defender & Citroen/Peugeot 2.2 HDi/TDCi diesel ECU. **DaVinci Deluxe Cloud Edition (v1.0.44)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Continental SID208 readouts**.
+**Continental SID208** is Ford Transit, PSA Boxer/Jumper, Land Rover Defender & Citroen/Peugeot 2.2 HDi/TDCi diesel ECU. **DaVinci Deluxe Cloud Edition (v1.0.45)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Continental SID208 readouts**.
 
 ## 📊 Live Continental SID208 Variants Covered Across Brands
 
