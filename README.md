@@ -10,7 +10,7 @@
 
 | Brand | Continental SID208 Variants | Supported ECU Identifiers |
 | :--- | :---: | :--- |
-| **FORD** | 3 | `SID208`, `SID208 (SW: 10126020AD)`, `SID209-211` |
+| **FORD** | 2 | `SID208`, `SID209-211` |
 | **PEUGEOT** | 2 | `SID208`, `SID209-211` |
 | **FIAT** | 1 | `SID208` |
 | **LAND ROVER** | 1 | `SID208` |
