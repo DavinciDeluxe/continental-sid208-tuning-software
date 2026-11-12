@@ -12,14 +12,13 @@
     "https://www.davincideluxe.it/continental-sid208-tuning-software",
     "https://www.aesoftech.eu/continental-sid208-tuning-software"
   ],
-  "matched_variants_count": 11,
+  "matched_variants_count": 10,
   "brands": {
     "FIAT": [
       "SID208"
     ],
     "FORD": [
       "SID208",
-      "SID208 (SW: 10126020AD)",
       "SID209-211"
     ],
     "LAND ROVER": [
